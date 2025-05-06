@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **f20230342@dubai.bits-pilani.ac.in**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn: http://linkedin.com/in/aarushi-kothari-998b99283</h3>
 <p align="left">
 </p>
 
