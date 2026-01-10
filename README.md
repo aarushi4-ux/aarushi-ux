@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarushi4-ux&label=Profile%20views&color=0e75b6&style=flat" alt="aarushi4-ux" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Database Management Systems**
+- I’m currently learning **Data Mining and Computer Networks**
 
-- 📫 How to reach me **f20230342@dubai.bits-pilani.ac.in**
+- How to reach me **kothariaarushi2006@gmail.com**
 
 <h3 align="left">Connect with me on LinkedIn: http://linkedin.com/in/aarushi-kothari-998b99283</h3>
 <p align="left">
