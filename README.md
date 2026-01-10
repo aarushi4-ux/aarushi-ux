@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aarushi Kothari</h1>
+<h1 align="center">Hello!!👋 I'm Aarushi Kothari</h1>
 <h3 align="center">Aspiring Computer and Data Scientist eager to apply theoretical knowledge and technical skills in practical settings</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarushi4-ux&label=Profile%20views&color=0e75b6&style=flat" alt="aarushi4-ux" /> </p>
