@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Aarushi Kothari</h1>
-<h3 align="center">Computer Science student focused on Data Science, Machine Learning, and Data Visualization</h3>
+<h3 align="center">Computer Science undergraduate focused on Data Science, Machine Learning, and Data Visualization</h3>
 
 <p align="center">
 I enjoy turning messy data into clear, actionable stories.
@@ -9,8 +9,8 @@ I enjoy turning messy data into clear, actionable stories.
 
 ### 🔭 What I’m working on
 - Building data analysis and visualization projects  
-- Learning Data Mining & Computer Networks  
-- Exploring real-world ML applications  
+- Learning Data Mining & Natural Language Processing 
+- Making real-world ML projects
 
 
 ➡️ View my projects on my repositories.
